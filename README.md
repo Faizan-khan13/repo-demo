@@ -1,4 +1,9 @@
 # repo-demo
 Author - Faizan khan
 <br>
-This is my first git repositry.
+
+# Teacher 
+shradha khapra
+
+# student
+delta student
